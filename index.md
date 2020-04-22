@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[GitHub](https://github.com/ezego1)
 
