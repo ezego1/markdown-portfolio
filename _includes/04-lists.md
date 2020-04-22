@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Todo List
+* Upload the index file
+* Run the script file
+* And update the webssite
